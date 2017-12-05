@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# __author__ = '懒懒的天空'
+# __author__ = 'R.S工作室'
 
 import requests
 import sys
